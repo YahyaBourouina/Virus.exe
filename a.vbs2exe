@@ -1,0 +1,19 @@
+<convert2exe>
+    <uacLevel>asInvoker</uacLevel>
+    <launcher>C:\Users\user\AppData\Local\Vbsedit\x64\launchers\launcher64w_skull.exe</launcher>
+    <folder>E:\Downloads\Virus</folder>
+    <dependencies />
+    <mode>gui</mode>
+    <userAccount></userAccount>
+    <appName>A</appName>
+    <password>072046</password>
+    <silent>no</silent>
+    <unicode>no</unicode>
+    <regfreecom>no</regfreecom>
+    <custom_description>My Description</custom_description>
+    <custom_copyright>© My Company Name 2022</custom_copyright>
+    <custom_productName>My Product Name</custom_productName>
+    <custom_version>01000001</custom_version>
+    <custom_icon>C:\Windows\system32\shell32.dll,238</custom_icon>
+    <custom_executable_id></custom_executable_id>
+</convert2exe>
